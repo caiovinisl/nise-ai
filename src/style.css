@@ -1,0 +1,242 @@
+/* Estilos para o corpo do aplicativo */
+body {
+  font-family: "Montserrat", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: rgb(5, 167, 162);
+  background: linear-gradient(
+    90deg,
+    rgba(5, 167, 162, 1) 0%,
+    rgba(47, 124, 173, 1) 100%
+  );
+}
+
+div {
+  text-align: center;
+  background-color: #f0f4f7;
+  padding: 8px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+h2,
+h4 {
+  margin: 8px;
+}
+
+h2 {
+  cursor: pointer;
+}
+
+h4 {
+  color: #2f7cad;
+}
+
+#root {
+  max-height: 600px;
+  overflow-y: auto;
+}
+
+#iniciar,
+#obter-calendario {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #2f7cad;
+  color: #f0f4f7;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-bottom: 8px;
+}
+
+#iniciar:hover,
+#obter-calendario:hover {
+  background-color: #3689b8;
+}
+
+#resultado-disponivel {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #2ecc71;
+  color: #f0f4f7;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#resultado-disponivel:hover {
+  background-color: #27ae60;
+}
+
+#resultado-indisponivel #loading {
+  border: none;
+  cursor: not-allowed;
+  transition: background-color 0.3s ease;
+  padding: 0;
+}
+
+#loading {
+  width: 156px;
+  height: 32px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#resultado-indisponivel div {
+  margin: 0;
+  padding: 0;
+  background-color: #f0f4f7;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+li {
+  margin-bottom: 12px;
+  padding: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+img {
+  width: 40%;
+  margin-top: 48px;
+}
+
+p {
+  font-size: 12px;
+  color: #888;
+  margin: 4px;
+}
+
+.config-container {
+  display: flex;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: row;
+  background-color: #f9f9f9;
+}
+
+.config-label {
+  display: block;
+  position: relative;
+  margin-bottom: 10px;
+  margin-right: 4px;
+}
+
+.config-input {
+  width: 40px;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  margin-top: 5px;
+  padding-left: 25px;
+}
+
+.config-label::before {
+  content: attr(data-label);
+  position: absolute;
+  left: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+::-webkit-scrollbar {
+  width: 10px; /* Largura da barra de rolagem */
+  background-color: #f5f5f5; /* Cor de fundo */
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #888; /* Cor da barra */
+  border-radius: 5px; /* Borda arredondada */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #555; /* Cor ao passar o mouse por cima */
+}
+
+#calendar ul {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 16px;
+  padding: 0;
+  list-style: none;
+}
+
+#calendar li {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: small;
+  text-align: center;
+  background-color: #f9f9f9; /* Cor de fundo para os dias */
+  color: #333; /* Cor do texto */
+}
+
+#calendar ul li {
+  padding: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  list-style: none;
+}
+
+#calendar ul li.t {
+  background-color: #4b5c6b;
+  color: #f0f4f7;
+}
+
+#calendar ul li.np {
+  background-color: #d3455b;
+  color: #f0f4f7;
+}
+
+#calendar ul li.p {
+  background-color: #1aae9f;
+  color: black;
+}
+
+.orderOfTours {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.orderOfTours li {
+  margin: 1em;
+}
