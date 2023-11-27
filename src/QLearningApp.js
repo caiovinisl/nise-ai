@@ -11,9 +11,9 @@ const QLearningApp = () => {
   const [learning, setLearning] = useState(false);
   const [orderOfTours, setOrderOfTours] = useState({});
   const [calendario, setCalendario] = useState([]);
-  const [alpha, setAlpha] = useState(0.1);
-  const [gamma, setGamma] = useState(0.1);
-  const [epsilon, setEpsilon] = useState(0.1);
+  const [alpha, setAlpha] = useState(0.25);
+  const [gamma, setGamma] = useState(0.25);
+  const [epsilon, setEpsilon] = useState(0.25);
 
   const [policyVisible, setPolicyVisible] = useState(true);
   const [orderVisible, setOrderVisible] = useState(true);
@@ -121,9 +121,9 @@ const QLearningApp = () => {
             <input
               className="config-input"
               type="number"
-              step="0.1"
+              step="0.25"
               max="1"
-              min="0.1"
+              min="0.25"
               value={alpha}
               onChange={handleAlphaChange}
             />
@@ -132,9 +132,9 @@ const QLearningApp = () => {
             <input
               className="config-input"
               type="number"
-              step="0.1"
+              step="0.25"
               max="1"
-              min="0.1"
+              min="0.25"
               value={gamma}
               onChange={handleGammaChange}
             />
@@ -147,9 +147,9 @@ const QLearningApp = () => {
             <input
               className="config-input"
               type="number"
-              step="0.1"
+              step="0.25"
               max="1"
-              min="0.1"
+              min="0.25"
               value={epsilon}
               onChange={handleEpsilonChange}
             />

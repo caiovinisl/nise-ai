@@ -102,9 +102,9 @@ for estado in estados:
         Q[estado][acao] = [0, 0, 0]
 
 # Parâmetros do algoritmo de aprendizado
-alpha = 0.1  #Taxa de aprendizado
-gamma = 0.1  #Fator de desconto
-epsilon = 0.1  #Taxa de exploração
+alpha = 0.25  #Taxa de aprendizado
+gamma = 0.25  #Fator de desconto
+epsilon = 0.25  #Taxa de exploração
 
 # print("Politica otima antes de enviar:", politica_otima)
 

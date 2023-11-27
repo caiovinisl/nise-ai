@@ -1,0 +1,2888 @@
+α = 0.25, γ = 0.25, ε = 0.25
+Política ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Trabalhar"
+1
+: 
+"2 - Trabalhar"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Passear"
+5
+: 
+"6 - Nao Passear"
+6
+: 
+"7 - Passear"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Nao Passear"
+10
+: 
+"11 - Trabalhar"
+11
+: 
+"12 - Trabalhar"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Trabalhar"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Nao Passear"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Nao Passear"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Nao Passear"
+23
+: 
+"24 - Nao Passear"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Nao Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Nao Passear"
+
+
+α = 0.25, γ = 0.25, ε = 0.5
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Trabalhar"
+1
+: 
+"2 - Passear"
+2
+: 
+"3 - Passear"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Passear"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Passear"
+10
+: 
+"11 - Nao Passear"
+11
+: 
+"12 - Passear"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Nao Passear"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Nao Passear"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Passear"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Nao Passear"
+22
+: 
+"23 - Passear"
+23
+: 
+"24 - Trabalhar"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Nao Passear"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Nao Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.25, γ = 0.25, ε = 0.75
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Trabalhar"
+1
+: 
+"2 - Trabalhar"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Passear"
+5
+: 
+"6 - Passear"
+6
+: 
+"7 - Passear"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Nao Passear"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Nao Passear"
+11
+: 
+"12 - Passear"
+12
+: 
+"13 - Passear"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Nao Passear"
+22
+: 
+"23 - Nao Passear"
+23
+: 
+"24 - Nao Passear"
+24
+: 
+"25 - Nao Passear"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Trabalhar"
+28
+: 
+"29 - Passear"
+29
+: 
+"30 - Nao Passear"
+
+α = 0.25, γ = 0.5, ε = 0.25
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário:
+0
+: 
+"1 - Trabalhar"
+1
+: 
+"2 - Trabalhar"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Trabalhar"
+6
+: 
+"7 - Passear"
+7
+: 
+"8 - Nao Passear"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Nao Passear"
+10
+: 
+"11 - Passear"
+11
+: 
+"12 - Trabalhar"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Trabalhar"
+17
+: 
+"18 - Nao Passear"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Nao Passear"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Passear"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Nao Passear"
+27
+: 
+"28 - Trabalhar"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.25, γ = 0.5, ε = 0.5
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Passear"
+1
+: 
+"2 - Nao Passear"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Nao Passear"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Nao Passear"
+10
+: 
+"11 - Trabalhar"
+11
+: 
+"12 - Trabalhar"
+12
+: 
+"13 - Passear"
+13
+: 
+"14 - Passear"
+14
+: 
+"15 - Nao Passear"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Nao Passear"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Nao Passear"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Nao Passear"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Nao Passear"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Nao Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Nao Passear"
+
+α = 0.25, γ = 0.5, ε = 0.75
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Trabalhar"
+1
+: 
+"2 - Passear"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Passear"
+4
+: 
+"5 - Nao Passear"
+5
+: 
+"6 - Passear"
+6
+: 
+"7 - Trabalhar"
+7
+: 
+"8 - Passear"
+8
+: 
+"9 - Nao Passear"
+9
+: 
+"10 - Passear"
+10
+: 
+"11 - Nao Passear"
+11
+: 
+"12 - Passear"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Passear"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Passear"
+18
+: 
+"19 - Passear"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Nao Passear"
+21
+: 
+"22 - Passear"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Nao Passear"
+24
+: 
+"25 - Passear"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Nao Passear"
+27
+: 
+"28 - Trabalhar"
+28
+: 
+"29 - Nao Passear"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.25, γ = 0.75, ε = 0.25
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Trabalhar"
+1
+: 
+"2 - Trabalhar"
+2
+: 
+"3 - Nao Passear"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Trabalhar"
+6
+: 
+"7 - Trabalhar"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Nao Passear"
+11
+: 
+"12 - Trabalhar"
+12
+: 
+"13 - Nao Passear"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Trabalhar"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Passear"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Nao Passear"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Trabalhar"
+24
+: 
+"25 - Nao Passear"
+25
+: 
+"26 - Nao Passear"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Trabalhar"
+28
+: 
+"29 - Passear"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.25, γ = 0.75, ε = 0.5
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Trabalhar"
+1
+: 
+"2 - Nao Passear"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Passear"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Passear"
+6
+: 
+"7 - Trabalhar"
+7
+: 
+"8 - Nao Passear"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Passear"
+10
+: 
+"11 - Nao Passear"
+11
+: 
+"12 - Trabalhar"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Passear"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Passear"
+19
+: 
+"20 - Nao Passear"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Nao Passear"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Passear"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Trabalhar"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Passear"
+
+α = 0.25, γ = 0.75, ε = 0.75
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Passear"
+1
+: 
+"2 - Nao Passear"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Passear"
+5
+: 
+"6 - Trabalhar"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Passear"
+11
+: 
+"12 - Passear"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Nao Passear"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Passear"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Nao Passear"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Trabalhar"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Nao Passear"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Trabalhar"
+28
+: 
+"29 - Passear"
+29
+: 
+"30 - Passear"
+
+α = 0.5, γ = 0.25, ε = 0.25
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Nao Passear"
+1
+: 
+"2 - Trabalhar"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Nao Passear"
+5
+: 
+"6 - Trabalhar"
+6
+: 
+"7 - Trabalhar"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Nao Passear"
+11
+: 
+"12 - Trabalhar"
+12
+: 
+"13 - Passear"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Nao Passear"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Nao Passear"
+19
+: 
+"20 - Passear"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Nao Passear"
+23
+: 
+"24 - Trabalhar"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Nao Passear"
+27
+: 
+"28 - Trabalhar"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Nao Passear"
+
+α = 0.5, γ = 0.25, ε = 0.5
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Trabalhar"
+1
+: 
+"2 - Trabalhar"
+2
+: 
+"3 - Nao Passear"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Nao Passear"
+5
+: 
+"6 - Nao Passear"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Nao Passear"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Trabalhar"
+11
+: 
+"12 - Trabalhar"
+12
+: 
+"13 - Nao Passear"
+13
+: 
+"14 - Passear"
+14
+: 
+"15 - Nao Passear"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Passear"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Nao Passear"
+21
+: 
+"22 - Nao Passear"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Nao Passear"
+24
+: 
+"25 - Nao Passear"
+25
+: 
+"26 - Passear"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Nao Passear"
+28
+: 
+"29 - Nao Passear"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.5, γ = 0.25, ε = 0.75
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Passear"
+1
+: 
+"2 - Passear"
+2
+: 
+"3 - Passear"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Passear"
+5
+: 
+"6 - Trabalhar"
+6
+: 
+"7 - Passear"
+7
+: 
+"8 - Passear"
+8
+: 
+"9 - Passear"
+9
+: 
+"10 - Passear"
+10
+: 
+"11 - Trabalhar"
+11
+: 
+"12 - Nao Passear"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Nao Passear"
+14
+: 
+"15 - Passear"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Nao Passear"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Nao Passear"
+20
+: 
+"21 - Passear"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Nao Passear"
+23
+: 
+"24 - Nao Passear"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Nao Passear"
+27
+: 
+"28 - Nao Passear"
+28
+: 
+"29 - Passear"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.5, γ = 0.5, ε = 0.25
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Nao Passear"
+1
+: 
+"2 - Trabalhar"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Nao Passear"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Passear"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Nao Passear"
+11
+: 
+"12 - Nao Passear"
+12
+: 
+"13 - Passear"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Nao Passear"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Trabalhar"
+24
+: 
+"25 - Nao Passear"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Nao Passear"
+27
+: 
+"28 - Trabalhar"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.5, γ = 0.5, ε = 0.5
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Trabalhar"
+1
+: 
+"2 - Passear"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Nao Passear"
+5
+: 
+"6 - Trabalhar"
+6
+: 
+"7 - Passear"
+7
+: 
+"8 - Passear"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Nao Passear"
+10
+: 
+"11 - Passear"
+11
+: 
+"12 - Passear"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Trabalhar"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Passear"
+21
+: 
+"22 - Nao Passear"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Nao Passear"
+24
+: 
+"25 - Nao Passear"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Passear"
+27
+: 
+"28 - Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Passear"
+
+α = 0.5, γ = 0.5, ε = 0.75
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Trabalhar"
+1
+: 
+"2 - Nao Passear"
+2
+: 
+"3 - Nao Passear"
+3
+: 
+"4 - Passear"
+4
+: 
+"5 - Nao Passear"
+5
+: 
+"6 - Nao Passear"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Passear"
+8
+: 
+"9 - Passear"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Trabalhar"
+11
+: 
+"12 - Nao Passear"
+12
+: 
+"13 - Passear"
+13
+: 
+"14 - Passear"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Nao Passear"
+16
+: 
+"17 - Passear"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Nao Passear"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Passear"
+23
+: 
+"24 - Nao Passear"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Passear"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Trabalhar"
+28
+: 
+"29 - Passear"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.5, γ = 0.75, ε = 0.25
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Passear"
+1
+: 
+"2 - Trabalhar"
+2
+: 
+"3 - Passear"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Nao Passear"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Passear"
+10
+: 
+"11 - Nao Passear"
+11
+: 
+"12 - Trabalhar"
+12
+: 
+"13 - Nao Passear"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Passear"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Passear"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Trabalhar"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Nao Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.5, γ = 0.75, ε = 0.5
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Nao Passear"
+1
+: 
+"2 - Trabalhar"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Nao Passear"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Nao Passear"
+6
+: 
+"7 - Trabalhar"
+7
+: 
+"8 - Passear"
+8
+: 
+"9 - Nao Passear"
+9
+: 
+"10 - Passear"
+10
+: 
+"11 - Nao Passear"
+11
+: 
+"12 - Trabalhar"
+12
+: 
+"13 - Passear"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Passear"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Nao Passear"
+23
+: 
+"24 - Nao Passear"
+24
+: 
+"25 - Nao Passear"
+25
+: 
+"26 - Passear"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Nao Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.5, γ = 0.75, ε = 0.75
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Passear"
+1
+: 
+"2 - Passear"
+2
+: 
+"3 - Passear"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Nao Passear"
+5
+: 
+"6 - Nao Passear"
+6
+: 
+"7 - Trabalhar"
+7
+: 
+"8 - Passear"
+8
+: 
+"9 - Nao Passear"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Passear"
+11
+: 
+"12 - Trabalhar"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Nao Passear"
+14
+: 
+"15 - Nao Passear"
+15
+: 
+"16 - Nao Passear"
+16
+: 
+"17 - Trabalhar"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Passear"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Nao Passear"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Nao Passear"
+23
+: 
+"24 - Passear"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Passear"
+26
+: 
+"27 - Nao Passear"
+27
+: 
+"28 - Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Passear"
+
+α = 0.75, γ = 0.25, ε = 0.25
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Passear"
+1
+: 
+"2 - Nao Passear"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Nao Passear"
+6
+: 
+"7 - Passear"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Nao Passear"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Passear"
+11
+: 
+"12 - Nao Passear"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Passear"
+14
+: 
+"15 - Nao Passear"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Passear"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Nao Passear"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Passear"
+24
+: 
+"25 - Passear"
+25
+: 
+"26 - Nao Passear"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.75, γ = 0.25, ε = 0.5
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Passear"
+1
+: 
+"2 - Nao Passear"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Nao Passear"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Nao Passear"
+8
+: 
+"9 - Passear"
+9
+: 
+"10 - Passear"
+10
+: 
+"11 - Nao Passear"
+11
+: 
+"12 - Passear"
+12
+: 
+"13 - Passear"
+13
+: 
+"14 - Passear"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Trabalhar"
+17
+: 
+"18 - Nao Passear"
+18
+: 
+"19 - Passear"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Passear"
+22
+: 
+"23 - Nao Passear"
+23
+: 
+"24 - Trabalhar"
+24
+: 
+"25 - Nao Passear"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Trabalhar"
+28
+: 
+"29 - Nao Passear"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.75, γ = 0.25, ε = 0.75
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Nao Passear"
+1
+: 
+"2 - Trabalhar"
+2
+: 
+"3 - Passear"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Trabalhar"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Nao Passear"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Passear"
+11
+: 
+"12 - Nao Passear"
+12
+: 
+"13 - Nao Passear"
+13
+: 
+"14 - Passear"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Passear"
+16
+: 
+"17 - Passear"
+17
+: 
+"18 - Passear"
+18
+: 
+"19 - Passear"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Nao Passear"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Nao Passear"
+24
+: 
+"25 - Nao Passear"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Nao Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.75, γ = 0.5, ε = 0.25
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Nao Passear"
+1
+: 
+"2 - Nao Passear"
+2
+: 
+"3 - Nao Passear"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Trabalhar"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Nao Passear"
+10
+: 
+"11 - Trabalhar"
+11
+: 
+"12 - Trabalhar"
+12
+: 
+"13 - Nao Passear"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Nao Passear"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Nao Passear"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Nao Passear"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Passear"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Trabalhar"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Nao Passear"
+
+α = 0.75, γ = 0.5, ε = 0.5
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Trabalhar"
+1
+: 
+"2 - Passear"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Nao Passear"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Trabalhar"
+6
+: 
+"7 - Passear"
+7
+: 
+"8 - Trabalhar"
+8
+: 
+"9 - Nao Passear"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Passear"
+11
+: 
+"12 - Nao Passear"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Nao Passear"
+15
+: 
+"16 - Nao Passear"
+16
+: 
+"17 - Trabalhar"
+17
+: 
+"18 - Nao Passear"
+18
+: 
+"19 - Nao Passear"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Passear"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Nao Passear"
+23
+: 
+"24 - Trabalhar"
+24
+: 
+"25 - Nao Passear"
+25
+: 
+"26 - Passear"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.75, γ = 0.5, ε = 0.75
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Nao Passear"
+1
+: 
+"2 - Passear"
+2
+: 
+"3 - Trabalhar"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Trabalhar"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Passear"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Passear"
+11
+: 
+"12 - Nao Passear"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Nao Passear"
+14
+: 
+"15 - Nao Passear"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Nao Passear"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Nao Passear"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Nao Passear"
+22
+: 
+"23 - Passear"
+23
+: 
+"24 - Trabalhar"
+24
+: 
+"25 - Nao Passear"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Passear"
+27
+: 
+"28 - Trabalhar"
+28
+: 
+"29 - Passear"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.75, γ = 0.75, ε = 0.25
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Nao Passear"
+1
+: 
+"2 - Passear"
+2
+: 
+"3 - Nao Passear"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Trabalhar"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Nao Passear"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Nao Passear"
+11
+: 
+"12 - Trabalhar"
+12
+: 
+"13 - Nao Passear"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Trabalhar"
+17
+: 
+"18 - Nao Passear"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Nao Passear"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Passear"
+23
+: 
+"24 - Trabalhar"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Passear"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Nao Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.75, γ = 0.75, ε = 0.5
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Nao Passear"
+1
+: 
+"2 - Passear"
+2
+: 
+"3 - Passear"
+3
+: 
+"4 - Trabalhar"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Nao Passear"
+6
+: 
+"7 - Trabalhar"
+7
+: 
+"8 - Nao Passear"
+8
+: 
+"9 - Nao Passear"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Passear"
+11
+: 
+"12 - Nao Passear"
+12
+: 
+"13 - Trabalhar"
+13
+: 
+"14 - Nao Passear"
+14
+: 
+"15 - Trabalhar"
+15
+: 
+"16 - Trabalhar"
+16
+: 
+"17 - Trabalhar"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Trabalhar"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Nao Passear"
+21
+: 
+"22 - Trabalhar"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Trabalhar"
+24
+: 
+"25 - Trabalhar"
+25
+: 
+"26 - Trabalhar"
+26
+: 
+"27 - Trabalhar"
+27
+: 
+"28 - Nao Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Trabalhar"
+
+α = 0.75, γ = 0.75, ε = 0.75
+Política Ótima
+Burn Out - Ação: Nao Passear
+Cansado - Ação: Nao Passear
+Entediado - Ação: Trabalhar
+Entretido - Ação: Trabalhar
+Sem dinheiro - Ação: Trabalhar
+
+Ordem dos passeios
+Museu
+Parque
+Cinema
+Shopping
+Praia
+
+Calendário
+0
+: 
+"1 - Trabalhar"
+1
+: 
+"2 - Passear"
+2
+: 
+"3 - Nao Passear"
+3
+: 
+"4 - Nao Passear"
+4
+: 
+"5 - Trabalhar"
+5
+: 
+"6 - Trabalhar"
+6
+: 
+"7 - Nao Passear"
+7
+: 
+"8 - Passear"
+8
+: 
+"9 - Trabalhar"
+9
+: 
+"10 - Trabalhar"
+10
+: 
+"11 - Passear"
+11
+: 
+"12 - Nao Passear"
+12
+: 
+"13 - Passear"
+13
+: 
+"14 - Trabalhar"
+14
+: 
+"15 - Nao Passear"
+15
+: 
+"16 - Passear"
+16
+: 
+"17 - Trabalhar"
+17
+: 
+"18 - Trabalhar"
+18
+: 
+"19 - Passear"
+19
+: 
+"20 - Trabalhar"
+20
+: 
+"21 - Trabalhar"
+21
+: 
+"22 - Nao Passear"
+22
+: 
+"23 - Trabalhar"
+23
+: 
+"24 - Trabalhar"
+24
+: 
+"25 - Passear"
+25
+: 
+"26 - Nao Passear"
+26
+: 
+"27 - Passear"
+27
+: 
+"28 - Passear"
+28
+: 
+"29 - Trabalhar"
+29
+: 
+"30 - Nao Passear"
