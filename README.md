@@ -19,7 +19,7 @@ Solução de problemas reais por meio de Inteligência Artificial
 </p>
 
 <h4 align="center"> 
-	🚧 Hoje é onde 🚧
+	🚧 NiseAI 🚧
 </h4>
 
 <p align="center">
@@ -38,6 +38,26 @@ Solução de problemas reais por meio de Inteligência Artificial
 📄 NiseAI
 
 ### Detalhamento
+**Problema:** Alcançar bem-estar e evitar o burn out nos indivíduos.
+
+**Algoritmos escolhidos:**
+- Q-Learning: Define política ótima
+- Busca Gulosa: Define ordenação dos passeios
+
+**Especificação:** Precisamos decidir a proporção de passeios em um mês, maximizando o bem-estar do indivíduo. Cada passeio gera um gasto financeiro e físico, porém um ganho social. Se uma grande quantidade de passeios for agendada, o indivíduo pode ficar cansado ou sem dinheiro para outros passeios. Precisamos encontrar a proporção ideal de passeios para realizar e maximizar o retorno, mantendo o indivíduo entretido.
+
+**Estados:** Entediado, Entretido, Cansado, Sem dinheiro e Burn-out.
+
+**Ações:** Para simplificar, pressupõe que hajam apenas três ações: passear, nao_passear e trabalhar.
+
+**Recompensas:** O passeio em determinado estado gera recompensas com a tupla {Financeiro, Físico e Social}
+
+**Transições de estado:** passear em um estado tem maior probabilidade de se mover para um estado com menos dinheiro, disposição física, mas satisfação social. Da mesma forma, a ação nao_passear tem maior probabilidade de passar para o estado de entediado. A ação de trabalhar gera um retorno financeiro, mas gasto físico e social.
+
+**Burn-out** é um estado final, pois uma vez que um agente indivíduo chega a este estado, ele não pode mais executar quaisquer ações para obter mais recompensas
+É um estado do MDP que não tem arestas de saída (sinkstate) 
+
+![MATA64 Inteligência Artificial - Trabalho Final](https://github.com/caiovinisl/nise-ai/assets/31699879/44c15e2b-a27a-450f-8992-4914e143523a)
 
 ---
 
