@@ -71,6 +71,20 @@ Solução de problemas reais por meio de Inteligência Artificial
 
 ## 🛣️ Como executar o projeto
 
+#### Dependências
+
+"@testing-library/jest-dom": "^5.17.0",
+"@testing-library/react": "^13.4.0",
+"@testing-library/user-event": "^13.5.0",
+"axios": "^1.6.2",
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"react-lottie": "^1.2.3",
+"react-scripts": "5.0.1",
+"web-vitals": "^2.1.4"
+"Python": 3.12.0
+"pip": 23.2.1
+
 #### 🎲 Rodando a aplicação
 
 ```bash
@@ -81,7 +95,12 @@ $ git clone https://github.com/caiovinisl/nise-ai.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nise-ai
 
-# Instale dependências
+# Instale dependências backend
+$ pip numpy
+$ pip flask
+$ pip flask_cors
+
+# Instale dependências frontend
 $ npm install
 
 # Execute frontend
