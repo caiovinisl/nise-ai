@@ -111,7 +111,7 @@ $ npm start
 # Execute backend
 $ python learning.py > log.txt
 
-#Abra no seu terminal o localhost:3000 e use a aplicação
+#Abra no seu navegador o localhost:3000 e use a aplicação
 
 
 ```
