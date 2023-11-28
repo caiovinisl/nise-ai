@@ -96,9 +96,9 @@ $ git clone https://github.com/caiovinisl/nise-ai.git
 $ cd nise-ai
 
 # Instale dependências backend
-$ pip numpy
-$ pip flask
-$ pip flask_cors
+$ pip install numpy
+$ pip install flask
+$ pip install flask_cors
 
 # Instale dependências frontend
 $ npm install
