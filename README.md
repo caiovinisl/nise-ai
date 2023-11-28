@@ -73,6 +73,8 @@ Solução de problemas reais por meio de Inteligência Artificial
 
 #### ⚠️ Dependências
 
+- "Node": "v16.17.0"
+- "npm": "8.15.0"
 - "@testing-library/jest-dom": "^5.17.0",
 - "@testing-library/react": "^13.4.0",
 - "@testing-library/user-event": "^13.5.0",
@@ -82,8 +84,8 @@ Solução de problemas reais por meio de Inteligência Artificial
 - "react-lottie": "^1.2.3",
 - "react-scripts": "5.0.1",
 - "web-vitals": "^2.1.4"
-- "Python": 3.12.0
-- "pip": 23.2.1
+- "Python": "3.12.0"
+- "pip": "23.2.1"
 
 #### 🎲 Rodando a aplicação
 
